@@ -17,4 +17,4 @@ This project implements a comprehensive recommendation system using the MovieLen
 
 ## Results Summary 📊
 
-![Evaluation Results](assets/results.png)
+![Evaluation Results](results.png)
