@@ -18,3 +18,6 @@ This project implements a comprehensive recommendation system using the MovieLen
 ## Results Summary 📊
 
 ![Evaluation Results](results.png)
+![Models compare](results1.png)
+
+
